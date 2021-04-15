@@ -2,9 +2,6 @@
 
 namespace CursoCSharp.Fundamentos
 {   
-    /// <summary>
-    /// 
-    /// </summary>
    
     class Comentarios
     {  
@@ -12,10 +9,14 @@ namespace CursoCSharp.Fundamentos
         /// Documentacão do método de uma class
         /// </summary>
         /// <param name="nome">Nome do usuário</param>
-        public static void Executar(string nome)
+        public static void Executar()
         {
             // Cuidado com comentários desnecessários
             Console.WriteLine("Class Comentários");
+
+            /*
+             * Bloco de Comentários
+             */
         }
     }
 }
