@@ -1,6 +1,6 @@
 ﻿## Curso C# da cod3r do básico ao avançado
 
-#### Commentary Line, Block, Summary and Commentary of documentarion
+#### Commentary Line, Block, Summary and Commentary of documentation
 > 
 ```.cs
 using System;
