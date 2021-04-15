@@ -1,7 +1,6 @@
 ﻿## Curso C# da cod3r do básico ao avançado
 
 #### Commentary Line, Block, Summary and Commentary of documentation
-> 
 ```.cs
 using System;
 
@@ -34,3 +33,4 @@ namespace CursoCSharp.Fundamentos
     }
 }
 ```
+__Obs: para gerar um summary digite três a tecla /__
