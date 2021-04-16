@@ -134,4 +134,13 @@ assim já é carregado para o module dos os Objects ou Class de dentro do System
             double valorDeMercadoDaApple = 1_000_000_000_000.00;
             Console.WriteLine("Valor de Mercado da Apple :" + valorDeMercadoDaApple);
             Console.WriteLine("Double Min e Max:" + double.MinValue + " a " + double.MinValue);
+
+            
+            //Char 
+            char letra = 'a';
+            Console.WriteLine(letra);
+
+            //String
+            string text = "André Da Silva";
+            Console.WriteLine(text);
 ```
